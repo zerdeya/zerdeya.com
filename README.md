@@ -18,11 +18,17 @@ At Zerdeya, we specialize in delivering actionable strategies across the evolvin
 
 ### Why Choose Zerdeya?
 
-* **Deep Insight & Strategic Foresight:** Our name, Zerdeya reflects our commitment to providing profound strategic understanding that cuts through complexity.
+Okay, here's the rewrite of the "Why Choose Zerdeya?" section, now entirely without mentioning your personal name (Andrey Shakirov).
 
-* > In Kazakh, the word "зерде" (zerde) primarily stands for "intellect," "mind," "memory," "insight," and "perception." It refers to the cognitive faculty of the mind, the ability to comprehend, analyze, and gain deep understanding.
+---
 
+### Why Choose Zerdeya?
+
+* **Deep Insight & Strategic Foresight:** We are committed to providing profound strategic understanding that cuts through complexity. Our name, Zerdeya, embodies this dedication, reflecting intellect and insight in every solution we deliver.
 * **Practical, Results-Orientated Guidance:** We bridge the gap between theoretical AI and cloud concepts and tangible, measurable business outcomes.
+* **Experienced Leadership:** Our leadership team brings extensive experience in navigating the evolving tech landscape and delivering impactful digital transformations.
+
+
 
 
 ---
@@ -30,6 +36,8 @@ At Zerdeya, we specialize in delivering actionable strategies across the evolvin
 ### About Zerdeya
 
 Zerdeya is a specialized tech advisory firm dedicated to guiding businesses through the complexities and opportunities of cloud and generative AI. We partner with leaders to unlock new possibilities, optimize operations, and secure their future in a rapidly advancing digital world.
+
+> Our name, Zerdeya, is rooted in the Kazakh word 'зерде' (zerde), which signifies 'intellect,' 'mind,' 'memory,' 'insight,' and 'perception.' This reflects our foundational commitment to providing profound strategic understanding and cutting-edge insights to our clients.
 
 ---
 
